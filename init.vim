@@ -18,8 +18,9 @@ call plug#begin('~/.config/nvim/plugged/')
 "Themes
 Plug 'morhetz/gruvbox'
 
-
+"""""""""""""""""""""""""""
 "Plugins IDE
+""""""""""""""""""""""""""""
 
 "Navegar desde cualquier parte del codigo
 Plug 'easymotion/vim-easymotion'
